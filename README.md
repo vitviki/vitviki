@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Varun Tyagi @vitviki 
 - 👀 I’m interested in backend and frontend web development, and video games.
-- 🌱 I’m currently learning Django and will start with ReactJS next
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning NextJS.
 - 📫 How to reach me vtyagi1991@gmail.com
 
 <!---
